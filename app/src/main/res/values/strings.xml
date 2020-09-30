@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Teste ToDoList</string>
+    <string name="candidatoName">Thiago Fialho </string>
+    <string name="ol_eu_sou_o_candidato">Olá, eu sou o candidato</string>
+    <string name="e_esse">e esse é</string>
+    <string name="meu_teste">meu teste</string>
+    <string name="vamos_l">Vamos lá</string>
+    <string name="repositorio_text">repositório</string>
+    <string name="repositorio_link">https://github.com/thiagohbfialho</string>
+</resources>
